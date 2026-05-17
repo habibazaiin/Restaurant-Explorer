@@ -44,12 +44,7 @@ features/
  │    ├── presentation/
  │    ├── domain/
  │    └── data
-📸 Screens (Optional)
-Product Search Screen
-Restaurant List Screen
-Restaurant Details Screen
-Directions Map Screen
-⚙️ Setup Instructions
+ Setup Instructions
 Clone the repository:
 git clone <repo-url>
 Install dependencies:
